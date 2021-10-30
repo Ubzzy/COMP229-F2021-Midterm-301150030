@@ -1,4 +1,6 @@
+let DB_URI = process.env.DB_URI;
+
 module.exports = {
-  //local MongoDB deployment ->
-  "URI": "mongodb://localhost/books229"
+  // MongoDB deployment ->
+  "URI": DB_URI
 };
