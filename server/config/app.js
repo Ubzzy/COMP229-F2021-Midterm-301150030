@@ -1,4 +1,6 @@
-// moddules for node and express
+// app.js - Ubaid Delawala - 301150030 - midterm-ubaid.herokuapp.com
+
+// modules for node and express
 let createError = require('http-errors');
 let express = require('express');
 let path = require('path');
